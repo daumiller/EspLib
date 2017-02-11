@@ -1,5 +1,4 @@
-EspLib
-------
+#EspLib#
 
 **Multiplatform ESP8266 AT Library**
 
@@ -9,4 +8,6 @@ Included Platforms:
 * Teensy (probably 'just work' on any Arduino)
 * Qt (QtSerialPort)
 
-*Sorry, no documentation yet (busy using this library in a separate project)...*
+## Documentation ##
+See [REFERENCE.md](REFERENCE.md) for a funct/enum/struct reference.
+(Proper documentation still a *TODO*.)
